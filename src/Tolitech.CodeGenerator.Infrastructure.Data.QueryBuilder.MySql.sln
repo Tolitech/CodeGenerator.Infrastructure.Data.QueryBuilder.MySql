@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tolitech.CodeGenerator.Infrastructure.Data.QueryBuilder.MySql", "QueryBuilder.MySql\Tolitech.CodeGenerator.Infrastructure.Data.QueryBuilder.MySql.csproj", "{B10348FD-5844-4F27-9EE3-53983715E2DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tolitech.CodeGenerator.Infrastructure.Data.QueryBuilder.MySql.Tests", "QueryBuilder.MySql.Tests\Tolitech.CodeGenerator.Infrastructure.Data.QueryBuilder.MySql.Tests.csproj", "{17DD2D2D-B0EF-4613-8F71-B7B7F2385D6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B10348FD-5844-4F27-9EE3-53983715E2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10348FD-5844-4F27-9EE3-53983715E2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10348FD-5844-4F27-9EE3-53983715E2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10348FD-5844-4F27-9EE3-53983715E2DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17DD2D2D-B0EF-4613-8F71-B7B7F2385D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17DD2D2D-B0EF-4613-8F71-B7B7F2385D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17DD2D2D-B0EF-4613-8F71-B7B7F2385D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17DD2D2D-B0EF-4613-8F71-B7B7F2385D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25BB72E0-1670-4063-929D-34B2E57A317A}
+	EndGlobalSection
+EndGlobal
